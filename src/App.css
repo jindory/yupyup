@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   max-width: 350px;
-  margin:0 auto
+  margin:100px auto
 }
 
 .App-logo {
@@ -12,6 +12,7 @@
 .ipt-forms{margin:10px 0}
 .ipt-form{width:100%}
 .btn-cta{width:100%}
+.message{font-size:11px;text-align: left;margin-top:2px;color:#ff4343}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
